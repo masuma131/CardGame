@@ -72,27 +72,6 @@ In addition to the general player attributes, the youth player:
    - If a player goes over 21, they are disqualified.
    - The player closest to 21 wins the round.
   
-### Example Game
-Enter the youth's age: 12
-How much do you both want to bet? (min$10, max $300): $300
-Noah, how many dependent cards do you want? 3
-Noah, how many attack cards do you want? 6
-Noah, the sum of your cards is 10
-Do you want to add an attack card? [Y,N]y
-Noah, the sum of your cards is 12
-
-Kenneth, how many dependent cards do you want? 3
-Kenneth, how many attack cards do you want? 4
-Kenneth, the sum of your cards is 12
-Do you want to add an attack card? [Y,N]y
-Kenneth, the sum of your cards is 24
-
-Noah has 12 points.
-Kenneth has 24 points.
-
-Kenneth has a sum of 24, which is over the limit.
-Kenneth has been disqualified for going over the limit. Noah has won.
-
 ### Usage
 - Clone the repository.
 - Compile the code in your preferred C++ environment.
